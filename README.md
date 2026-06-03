@@ -1,6 +1,6 @@
 # ⛪ Raio de Sol - Website Oficial
 
-Este é o repositório do site oficial da **[Raio de Sol]**. O objetivo principal desta plataforma é centralizar a comunicação da igreja, permitindo a divulgação de horários de cultos, eventos e facilitando o engajamento dos membros através de inscrições para o voluntariado, além de contar com um painel administrativo para a gestão dessas informações.
+Este é o repositório do site oficial da **Raio de Sol**. O objetivo principal desta plataforma é centralizar a comunicação da igreja, permitindo a divulgação de horários de cultos, eventos e facilitando o engajamento dos membros através de inscrições para o voluntariado, além de contar com um painel administrativo para a gestão dessas informações.
 
 ---
 
